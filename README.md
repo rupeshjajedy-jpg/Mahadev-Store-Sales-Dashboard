@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales Analysis | Power BI Dashboard
 
-![E-Commerce Sales Dashboard]()
+[Download Power BI Dashboard](POWER_BI/ECOMMERCE_DASHBOARD.pbix)
 
 > OWNER OF MAHADEV STORE WANTS US TO HELP THEM CREATE A DASHBOARD TO TRACK AND ANALYZE THERE OVERALL SALES ACROSS INDIA.
 
